@@ -47,10 +47,10 @@ section{
 .green-box{
     position: absolute;
     top: 250px;
-    left: 960px;
+    left: 990px;
     z-index: -1;
-    height: 63vh;
-    width: 30vw;
+    height: 56vh;
+    width: 28vw;
 }
 
 /* main-left-side div */
