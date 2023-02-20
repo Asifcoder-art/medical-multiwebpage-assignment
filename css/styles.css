@@ -47,9 +47,9 @@ section{
 .green-box{
     position: absolute;
     top: 250px;
-    left: 1010px;
+    left: 1035px;
     z-index: -1;
-    height: 56vh;
+    height: 47vh;
     width: 24vw;
 }
 
